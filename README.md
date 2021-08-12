@@ -6,4 +6,4 @@
 + LM35
 + 20k电位器
 ## 关于连线
-![原理图.jpg](/原理图.jpg "原理图.jpg")
+![原理图.jpg](https://github.com/scientificmaniac/-Arduino-LM35-1602a-/blob/main/%E5%8E%9F%E7%90%86%E5%9B%BE.JPG?raw=true "原理图.jpg")
